@@ -1,53 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://metrobinari.giuscond.com/italia/</loc>
-    <lastmod>2020-12-20T12:01:00+01:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://metrobinari.giuscond.com/it/sitemap.xml</loc>
+    
+      <lastmod>2021-04-23T11:01:00+01:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://metrobinari.giuscond.com/italia/roma/</loc>
-    <lastmod>2020-12-20T12:01:00+01:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://metrobinari.giuscond.com/en/sitemap.xml</loc>
+    
+      <lastmod>2021-04-23T12:01:00+01:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://metrobinari.giuscond.com/italia/genova/</loc>
-    <lastmod>2020-12-16T12:01:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://metrobinari.giuscond.com/italia/napoli/</loc>
-    <lastmod>2020-12-15T12:01:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://metrobinari.giuscond.com/</loc>
-    <lastmod>2020-12-14T08:47:12+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://metrobinari.giuscond.com/progetto/</loc>
-    <lastmod>2020-12-14T08:47:12+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://metrobinari.giuscond.com/italia/catania/</loc>
-    <lastmod>2020-06-12T12:01:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://metrobinari.giuscond.com/italia/brescia/</loc>
-    <lastmod>2020-06-05T12:01:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://metrobinari.giuscond.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://metrobinari.giuscond.com/tags/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>
